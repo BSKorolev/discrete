@@ -37,8 +37,8 @@ for i in range(m):
 print()
 print(str(matrix[m - 1][n - 1]))
 print("new")
-m = 15
-n = 14
+m = 17
+n = 12
 matrix = [[0 for x in range(n)] for y in range(m)]
 i = 0
 j = 0
